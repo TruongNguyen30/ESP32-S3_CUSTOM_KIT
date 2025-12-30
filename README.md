@@ -1,8 +1,7 @@
 # ESP32-S3_CUSTOM_KIT
 This project features a 4-layer PCB design based on the ESP32-S3-WROOM-1 module. While derived from Espressif's official reference design, I have incorporated several custom modifications to suit specific requirements. Please scroll down for further details.
 ##3D VIEW:
-[3D PCB](<img width="1242" height="478" alt="Screenshot 2025-12-30 135545" src="https://github.com/user-attachments/assets/c2581021-f67e-48a4-905d-00352e956738" />
-)
+<img width="1242" height="478" alt="Screenshot 2025-12-30 135545" src="https://github.com/user-attachments/assets/c2581021-f67e-48a4-905d-00352e956738" />
 <img width="1254" height="568" alt="Screenshot 2025-12-30 135826" src="https://github.com/user-attachments/assets/a0992580-2cf8-4d79-93ea-91ee3891ec64" />
 ##2D VIEW:
 <img width="1219" height="453" alt="Screenshot 2025-12-30 140245" src="https://github.com/user-attachments/assets/a3ab17b1-747d-4c4f-88a9-dcdad9427331" />

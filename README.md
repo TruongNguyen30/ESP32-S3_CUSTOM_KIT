@@ -14,7 +14,7 @@ This project features a 4-layer PCB design based on the ESP32-S3-WROOM-1 module.
 
 <img width="1230" height="504" alt="Screenshot 2025-12-30 135941" src="https://github.com/user-attachments/assets/0519931b-d93a-4e98-a880-cf6bbc3aad7f" />
 
-##SECOND LAYER (PLANE):
+##SECOND LAYER (SIGNAL):
 
 <img width="1224" height="467" alt="Screenshot 2025-12-30 140006" src="https://github.com/user-attachments/assets/bd6032be-e390-428c-bf0f-1aad4e672054" />
 
